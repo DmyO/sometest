@@ -1,2 +1,2 @@
 # sometest
-sometest Repository isn't for public attention
+sometest Repository isn't for public attention.
